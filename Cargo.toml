@@ -24,3 +24,6 @@ blake3 = "0.3.7"
 
 [dev-dependencies]
 log4rs = "1.0.0"
+lazy_static = "1.4.0"
+dashmap = "5.3.4"
+sha2 = "0.10.2"
